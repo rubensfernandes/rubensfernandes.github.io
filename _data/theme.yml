@@ -14,7 +14,8 @@ num_home_posts: 3
 # - purple
 # - orange
 # - red
-color: default
+# - asphalt
+color: red
 
 # Show navigation below each post?
 show_post_navs: true
