@@ -15,10 +15,10 @@ num_home_posts: 3
 # - orange
 # - red
 # - asphalt
-color: red
+color: turquoise
 
 # Show navigation below each post?
-show_post_navs: true
+show_post_navs: false
 
 # Hides the sidebar.
 # You can also hide the sidebar by setting hide_sidebar: true on
