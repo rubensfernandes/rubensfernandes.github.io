@@ -14,7 +14,7 @@ Depois de gerada a chave verifique se ela foi criada corretamente:
 
 Se apareceu na tela uma sequência de caracteres e seu email no final está tudo ok, agora digite o seguinte comando:
 
-```cat ~/.ssh/id_rsa.pub | ssh user@hostname 'cat >> .ssh/authorized_keys ```
+```cat ~/.ssh/id_rsa.pub | ssh user@hostname 'cat >> .ssh/authorized_keys' ```
 
 Pronto agora quando você for acessar o servidor via SSH você não necessitará mais colocar uma senha.
 
