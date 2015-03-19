@@ -24,6 +24,6 @@ $ composer update
 $ composer --self-update
 ```
 
-O script completo você encontra aqui no meu repositório do [github](https://github.com/rubensfernandes/scripts-ubuntu/blob/master/composer-global.sh)O script completo se encontra aqui no meu repositório do github
+O script completo você encontra aqui no meu repositório do [github](https://github.com/rubensfernandes/scripts-ubuntu/blob/master/composer-global.sh)
 
 Até a proxima :coffee:
