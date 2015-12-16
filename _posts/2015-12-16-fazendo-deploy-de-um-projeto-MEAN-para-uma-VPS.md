@@ -2,11 +2,13 @@
 Rode os comandos abaixo sempre na raiz onde seus repositórios ficarão
 
 #### Criar um repositório vazio na VPS
+
 ```
 git init nomedorepo.git --bare
 ```
 
 #### Criar a pasta dentro do server
+
 ```
 mkdir /var/www/nomedorepo
 ```
@@ -18,6 +20,7 @@ No repositório que acabamos de iniciar edite o arquivo post-receive ou crie-o s
 ```
 nano nomedorepo.git/hooks/post-receive
 ```
+
 Insira as linhas abaixo nele editando conforme necessário
 
 ```
