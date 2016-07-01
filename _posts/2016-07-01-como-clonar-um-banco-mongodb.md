@@ -20,7 +20,7 @@ Suponhamos que você precise fazer com que a database de nome **banco1** seja du
 
 3. Para importar esse backup para o **banco2** rode:
 	
-	``` mongorestore -d banco2 pasta_para_salvar/banco2 ```
+	``` mongorestore -d banco2 pasta_para_salvar/banco1 ```
 
 	> note que é essencial passar o nome da pasta que usou em **-o** na hora de gerar o backup, usamos ***pasta_para_salvar*** nesse exemplo.
 
@@ -41,4 +41,4 @@ Suponhamos que você precise fazer com que a database de nome **banco1** seja du
 
 Pronto agora você possui uma cópia do banco1 no banco2.
 
-:rocket: :coffee:
+:coffee:

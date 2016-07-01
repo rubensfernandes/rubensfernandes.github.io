@@ -18,4 +18,4 @@ Se apareceu na tela uma sequência de caracteres e seu email no final está tudo
 
 Pronto agora quando você for acessar o servidor via SSH você não necessitará mais colocar uma senha.
 
-Até a proxima :coffee:
+:coffee:
