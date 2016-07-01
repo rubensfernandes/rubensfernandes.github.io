@@ -12,7 +12,7 @@ Depois de gerada a chave verifique se ela foi criada corretamente:
 
 ``` cat ~/.ssh/id_rsa.pub ```
 
-Se apareceu na tela uma sequência de caracteres e seu email no final está tudo ok, agora digite o seguinte comando:
+Se apareceu na tela uma sequência de caracteres e seu email ou nome do seu computador no final está tudo ok, agora digite o seguinte comando:
 
 ```cat ~/.ssh/id_rsa.pub | ssh user@hostname 'cat >> .ssh/authorized_keys' ```
 

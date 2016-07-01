@@ -1,5 +1,5 @@
 ---
-title: "Como clonar um banco de dados no mongoDB"
+title: "Como clonar um banco de dados no MongoDB"
 ---
 
 Suponhamos que você precise fazer com que a database de nome **banco1** seja duplicada para **banco2** dentro do seu servidor local ou externo siga os seguintes passos:
