@@ -1,8 +1,8 @@
 ---
-title: "Como instalar composer globalmente no ubuntu"
+title: "Como instalar composer globalmente no ubuntu/debian ou seus derivados"
 ---
 
-O genki desu ka? Aqui é Rubens Fernandes trazendo um simples post de como instalar o ***composer*** globalmente, direto ao assunto, no ***terminal*** (ctrl+alt+t) digite:
+Aqui é Rubens Fernandes trazendo um simples post de como instalar o ***composer*** globalmente, direto ao assunto, no ***terminal*** (ctrl+alt+t) digite:
 
 ```
 $ curl -sS https://getcomposer.org/installer | php 

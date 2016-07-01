@@ -1,4 +1,7 @@
-# Fazendo deploy de um projeto MEAN para uma VPS
+---
+title: "Fazendo deploy de um projeto MEAN para uma VPS"
+---
+
 Rode os comandos abaixo sempre na raiz onde seus repositórios ficarão
 
 #### Criar um repositório vazio na VPS
