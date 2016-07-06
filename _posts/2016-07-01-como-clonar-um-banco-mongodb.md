@@ -19,7 +19,7 @@ Suponhamos que você precise fazer com que a database de nome **banco1** seja du
 	> esse comando gera um backup do seu banco1 na pasta 'pasta_para_salvar', se você rodar um **ls** vai ver que ele criou uma pasta com o nome especificado em **-o** se o **-o** não for especificado ele vai gerar o backup na pasta **dump**
 
 3. Para importar esse backup para o **banco2** rode:
-	
+
 	``` mongorestore -d banco2 pasta_para_salvar/banco1 ```
 
 	> note que é essencial passar o nome da pasta que usou em **-o** na hora de gerar o backup, usamos ***pasta_para_salvar*** nesse exemplo.
@@ -32,7 +32,7 @@ Suponhamos que você precise fazer com que a database de nome **banco1** seja du
 
 	``` > show dbs ```
 
-	> você deve ver algo como: 
+	> você deve ver algo como:
 	```
 	banco1	0.000GB
 	banco2	0.000GB
