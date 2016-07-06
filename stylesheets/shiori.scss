@@ -183,7 +183,7 @@ h3 {
     position: relative;
     top: -54px;
     min-height: 250px;
-    background: url("/assets/cover.jpg") no-repeat scroll 0px 100%;
+    background: url("/assets/cover.jpg") no-repeat scroll 0px 100% / cover transparent;
 }
 
 @media(max-width: $screen-xs-max) {
