@@ -186,6 +186,17 @@ h3 {
     background: url("/assets/cover.jpg") no-repeat scroll 0px 100% / cover transparent;
 }
 
+.sub {
+    font-size: 10px;
+    color: #eee;
+    line-height: 1px;
+}
+
+.navbar-inverse {
+    background-color: #222;
+    border-color: #222;
+}
+
 @media(max-width: $screen-xs-max) {
   .navbar-header {
     text-align: center;
